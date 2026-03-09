@@ -169,7 +169,7 @@
     "needRoleToUseCmdOnReaction": false
   },
   "logEvents": {
-    "disableAll": true,
+    "disableAll": false,
     "message": true,
     "message_reaction": false,
     "message_unsend": true,
